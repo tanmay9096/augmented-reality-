@@ -1,2 +1,1 @@
-# augmented-reality-
-this function is based on augmented reality ..
+# augmented-reality- for super imposing clothes on your body
